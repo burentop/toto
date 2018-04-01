@@ -1,0 +1,12 @@
+.sidebar {
+  float: right;
+  background-color: lightgrey;
+}
+
+.image1 {
+  float: left;
+}
+
+.image2 {
+  float: right;
+}
